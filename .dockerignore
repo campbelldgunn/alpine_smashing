@@ -1,0 +1,5 @@
+\.git*
+\.dockerignore
+README.md
+CHANGELOG
+*.DS_Store

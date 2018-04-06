@@ -6,9 +6,9 @@ Using alpine image. The container size has been reduced from about 800MB to abou
 
 Link: [campbelldgunn/alpine_smashing](https://registry.hub.docker.com/u/campbelldgunn/alpine_smashing/)
 
-[![Docker Build Status](https://img.shields.io/docker/build/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/ccampbelldgunn/alpine_smashing/)
-[![Docker Automated build](https://img.shields.io/docker/automated/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/ccampbelldgunn/alpine_smashing/)
-[![Docker Stars](https://img.shields.io/docker/stars/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/ccampbelldgunn/alpine_smashing/)
+[![Docker Build Status](https://img.shields.io/docker/build/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/campbelldgunn/alpine_smashing/)
+[![Docker Automated build](https://img.shields.io/docker/automated/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/campbelldgunn/alpine_smashing/)
+[![Docker Stars](https://img.shields.io/docker/stars/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/campbelldgunn/alpine_smashing/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/campbelldgunn/alpine_smashing.svg?style=for-the-badge)](https://hub.docker.com/r/campbelldgunn/alpine_smashing/)
 
 ## Build (optional)
